@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/7734" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/ReetuRaj77" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/reetu-raj-dubey" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/ReetuRajDubey1" target="_blank" rel="noreferrer">

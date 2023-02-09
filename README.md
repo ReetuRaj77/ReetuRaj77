@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 </p>
 
 ### Github 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ReetuRaj77&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sagun15&theme=dark)](https://git.io/streak-stats)
